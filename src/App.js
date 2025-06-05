@@ -40,7 +40,6 @@ function App() {
         <Home />
         <Sobre />
         <Solucao />
-        {/* Adicione outras seções se quiser */}
         <Cadastrar />
       </main>
       <Footer />
